@@ -1,0 +1,47 @@
+.help {
+  padding: 174px 0;
+}
+.help__title  {
+  text-align: center;
+  margin-bottom: 147px;
+  color: #ff8a00;
+}
+
+.help__subtitle {
+  font-family: 'Helvetica Neue Cyr Roman', sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 40px;
+  margin-bottom: 30px;
+}
+.help__subtitle_mb_more {
+  margin-bottom: 75px;
+}
+
+.help__item {
+  margin-bottom: 127px;
+}
+
+.help__number {
+  display: block;
+  float:left;
+  font-size: 50px;
+  line-height: 50px;
+  color: #ff8a00;
+}
+.help__description {
+  margin-left: 47px;
+   
+}
+.help__subtitle {
+  margin-left: 47px;
+}
+
+.definition__text {
+  width: 550px;
+  padding-bottom: 20px;
+}
+
+.definition__text_width_less {
+  padding-right: 110px;
+ }

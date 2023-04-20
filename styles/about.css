@@ -1,0 +1,11 @@
+.about {
+  padding-bottom: 150px;
+}
+.about__title {
+  margin-bottom: 39px;
+}
+
+.about__text {
+  width: 500px;
+  padding-bottom: 20px;
+}
